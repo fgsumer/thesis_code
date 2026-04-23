@@ -1,0 +1,11 @@
+# Requirements for Gravity Based Accessibility computation
+
+# Install with: pip install -r requirements.txt
+
+geopandas
+networkx
+numpy
+osmnx
+pandas
+tqdm
+r5py==1.1.2
